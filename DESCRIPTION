@@ -1,7 +1,7 @@
 Package: GEOexplorer
 Title: GEOexplorer: a webserver for gene expression analysis and visualisation
 Date: 2023/10/31
-Version: 1.17.0
+Version: 1.17.1
 Authors@R: 
   c(person(given = "Guy",
            family = "Hunt",
@@ -91,3 +91,4 @@ Suggests:
     testthat (>= 3.0.0)
 VignetteBuilder: knitr
 Config/testthat/edition: 3
+PackageStatus: Deprecated
